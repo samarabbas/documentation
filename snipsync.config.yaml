@@ -3,6 +3,6 @@ origins:
     repo: go-samples
   - owner: temporalio
     repo: java-samples
-    ref: eb5eb12eda981f5dfd8b9ecb3b4eee19c6c56480
+    ref: 0de5c32a0f187c14fda5f5c7e12f5303fa9e1237
 
 target: docs
